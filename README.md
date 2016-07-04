@@ -1,14 +1,7 @@
-# weezyton
+# Ralph Waldo Weezyton
 
-A Clojure library designed to ... well, that part is up to you.
+A Lil Wayne x Ralph Waldo Emerson Twitterbot
 
-## Usage
+![Lil Wayne](http://static.tumblr.com/c39b9935e720d1e17ae7be855d3a9404/n3t7aai/nIkmtuwvj/tumblr_static_lil-wayne-making-in-store-appearance-macys-louisiana-trukfit.jpg "Lil Wayne")
 
-FIXME
-
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+![Ralph Waldo Emerson](http://ebooks.adelaide.edu.au/e/emerson/ralph_waldo/portrait.jpg "Ralph Waldo Emerson")
